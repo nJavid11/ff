@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\LastTask\LastTask\obj\Debug\netcoreapp3.1\LastTask.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LastTask\LastTask\obj\Debug\netcoreapp3.1\LastTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LastTask\LastTask\obj\Debug\netcoreapp3.1\LastTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LastTask\LastTask\obj\Debug\netcoreapp3.1\LastTask.AssemblyInfo.cs
+C:\Users\User\source\repos\LastTask\LastTask\obj\Debug\netcoreapp3.1\LastTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LastTask\LastTask\bin\Debug\netcoreapp3.1\LastTask.exe
+C:\Users\User\source\repos\LastTask\LastTask\bin\Debug\netcoreapp3.1\LastTask.deps.json
+C:\Users\User\source\repos\LastTask\LastTask\bin\Debug\netcoreapp3.1\LastTask.runtimeconfig.json
+C:\Users\User\source\repos\LastTask\LastTask\bin\Debug\netcoreapp3.1\LastTask.runtimeconfig.dev.json
+C:\Users\User\source\repos\LastTask\LastTask\bin\Debug\netcoreapp3.1\LastTask.dll
+C:\Users\User\source\repos\LastTask\LastTask\bin\Debug\netcoreapp3.1\LastTask.pdb
+C:\Users\User\source\repos\LastTask\LastTask\obj\Debug\netcoreapp3.1\LastTask.dll
+C:\Users\User\source\repos\LastTask\LastTask\obj\Debug\netcoreapp3.1\LastTask.pdb
+C:\Users\User\source\repos\LastTask\LastTask\obj\Debug\netcoreapp3.1\LastTask.genruntimeconfig.cache
